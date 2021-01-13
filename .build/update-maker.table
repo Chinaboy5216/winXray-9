@@ -1,0 +1,5 @@
+{
+updateUrl="https://raw.githubusercontent.com/winXray/winXray/master/release/update32/";
+description="发布v3.0, 新增支持 SSR ，仔细调优界面与代码，争取操作更省心不浪费大家时间";
+outputDir="/release/update32/"
+}
